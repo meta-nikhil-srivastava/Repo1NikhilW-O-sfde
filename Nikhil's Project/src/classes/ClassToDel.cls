@@ -7,7 +7,7 @@ public with sharing class ClassToDel {
 			system.debug('c2 u2 b2');
 			//Added by User1 
 			system.debug('c1 u1 b1');
-			
+			   
 			
 			   
 		}
