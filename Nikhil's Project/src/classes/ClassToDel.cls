@@ -17,7 +17,8 @@ public with sharing class ClassToDel {
 			system.debug('Commit in new Branch');
 			system.debug('Merge task in Master');
 			system.debug('Merge task in TB1');
-			system.debug('Merge Task on Anurag repo');	system.debug('Merge Task on Anurag repozdfcghb');
+			system.debug('Merge Task on Anurag repo');	
+			system.debug('merge 1 nikhil');
 			
 			
 		}
