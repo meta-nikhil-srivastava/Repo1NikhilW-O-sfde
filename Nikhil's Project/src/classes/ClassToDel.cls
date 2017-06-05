@@ -18,7 +18,7 @@ public with sharing class ClassToDel {
 	
 	//Attempt 2 
 	
-	public static void M2U2(){ 
+	public static void M2U2(){  
 		
 	}
     	 
