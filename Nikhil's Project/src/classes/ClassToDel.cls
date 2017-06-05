@@ -23,6 +23,7 @@ public with sharing class ClassToDel {
 			system.debug('merge 2 nikhil');
 			system.debug('merge 3 nikhil');
 			system.debug('merge 4 by user1 ');
+			system.debug('merge 5 by u1');
 			
 			
 		}
