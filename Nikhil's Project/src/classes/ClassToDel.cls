@@ -8,7 +8,7 @@ public with sharing class ClassToDel {
 			system.debug('c3 u2 b2');
 			
 			
-			
+			 
 			   
 		}
 	}
