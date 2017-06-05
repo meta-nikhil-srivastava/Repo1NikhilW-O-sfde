@@ -6,7 +6,6 @@ public with sharing class ClassToDel {
 			
 			system.debug('c1 by u2');
 			
-			
 		}
 	}
     
