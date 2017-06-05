@@ -25,7 +25,7 @@ public with sharing class ClassToDel {
 			system.debug('merge 4 by u2'); 
 			system.debug('merge 4 by user1 '); 
 			system.debug('merge 5 by user2 ');
-
+ 
 			
 			
 		}
